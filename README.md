@@ -29,24 +29,11 @@ src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant8272&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=nishant8272&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant8272&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
----
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishant8272&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
----
-
-<h3 align="center">🔝 Top Contributed Repositories</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nishant8272&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-</p>
